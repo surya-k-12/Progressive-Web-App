@@ -1,4 +1,4 @@
-# 🧑‍💼 Job Portal - Progressive Web App (PWA)
+# 🧑‍💼 Progressive Web App (PWA)
 
 A full-featured **Job Portal** built as a **Progressive Web App (PWA)** to streamline the job application and recruitment process. This platform enables job seekers to find and apply to relevant opportunities and allows recruiters to post jobs and manage applications—all through a seamless, responsive web interface.
 
