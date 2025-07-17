@@ -93,7 +93,7 @@ Create a .env file in the root directory with:
  - https://hidred-up-jobportal.netlify.app/
 ### 🙌 Contributors
 - T.Manisha
-- K.Surya Prakash
+- B.Sravan Kumar
 
 ### 📝 License
 - This project is licensed under the MIT License.
